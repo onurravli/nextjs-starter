@@ -11,6 +11,9 @@ A starter for clean Next.js projects.
 - Zod
 - NextAuth
 - TailwindCSS
+- Shadcn/UI
+- Prettier
+- ESLint
 
 ### Setup
 
